@@ -11,7 +11,7 @@ parameters:
       splunk:
         registry: docker.io
         repository: splunk/splunk
-        tag: '10.0'
+        tag: '10.4'
 
     operatorResources:
       splunk:
